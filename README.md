@@ -3,7 +3,6 @@ sup! I'm Abdulrahman.</br> I code sometimes. Sometimes it works. Sometimes it ca
 
 - writes code that mostly breaks
 - makes useless programs nobody asked for
-- makes bugs, loves them like children
 - survives on caffeine, regret, and the occasional panic attack
 - pro at copy-pasting StackOverflow (it's called research, fuck off)
 - considers "works on my machine" a valid solution
