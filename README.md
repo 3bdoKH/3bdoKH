@@ -26,7 +26,6 @@ sup! I'm Abdulrahman.</br> I code sometimes. Sometimes it works. Sometimes it ca
 - git push --force gives me anxiety
 - unironically watches 3-hour coding videos at 2x speed
 - my IDE has more errors than lines of code
-- once spent 6 hours on a bug. it was a missing semicolon.
 
 ## hobbies outside coding (barely)
 - farming (virtually, I'm not touching real dirt)
