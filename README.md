@@ -17,16 +17,6 @@ sup! I'm Abdulrahman.</br> I code sometimes. Sometimes it works. Sometimes it ca
 - html lol (is it even a language?)
 - C++ (bold as fuck of me to claim this)
 
-## facts
-- spends more time on memes than coding
-- hates comments in code (future me can deal with that shit)
-- debugging is just vibing with console.log()
-- my code is held together by duct tape, hope, and spite
-- accidentally became a programmer
-- git push --force gives me anxiety
-- unironically watches 3-hour coding videos at 2x speed
-- my IDE has more errors than lines of code
-
 ## hobbies outside coding (barely)
 - farming (virtually, I'm not touching real dirt)
 - staring at error messages until they feel bad
