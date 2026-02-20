@@ -108,11 +108,16 @@ timeline
 
 ## github stats
 
-![stats](https://readme-stats-xi-ten.vercel.app/api?username=3bdoKH&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3bdoKH&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3bdoKH&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3bdoKH&theme=github_dark" width="32%" />
+</p>
 
-![streak](https://streak-stats.demolab.com/?user=3bdoKH&theme=dark&hide_border=true)
-
-![langs](https://readme-stats-xi-ten.vercel.app/api/top-langs/?username=3bdoKH&theme=dark&hide_border=true&layout=compact&langs_count=8)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=3bdoKH&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3bdoKH&theme=github_dark&utcOffset=2" width="32%" />
+</p>
 
 ---
 
