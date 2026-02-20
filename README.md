@@ -1,59 +1,127 @@
-# About Me: 
-sup! I'm Abdulrahman.</br> I code sometimes. Sometimes it works. Sometimes it catches fire.</br> I have a GitHub, somehow.</br>
+# sup, i'm abdulrahman
+
+> "sometimes it works. sometimes it catches fire. either way, ship it."
+
+i'm a self-taught developer from egypt. i build things, break them, fix them badly, and call it shipping.
 
 - writes code that mostly breaks
-- makes useless programs nobody asked for
-- survives on caffeine, regret, and the occasional panic attack
-- pro at copy-pasting StackOverflow (it's called research, fuck off)
-- considers "works on my machine" a valid solution
-- 90% of my commits are "fixed typo" or "why TF did I do this"
-- I love farming
-- can't center a div but somehow deployed a website
-- believes semicolons are optional
+- survives on caffeine and regret
+- pro at copy-pasting stackoverflow
+- makes bugs and then loves them
+- `git push --force` is a lifestyle
 
-## languages i kinda know
-- js? maybe
-- python… sometimes
-- html lol (is it even a language?)
-- C++ (bold as fuck of me to claim this)
+---
 
-## hobbies outside coding (barely)
-- farming (virtually, I'm not touching real dirt)
-- staring at error messages until they feel bad
-- googling "how to exit vim"
-- collecting tabs like Pokémon cards
-- pretending I understand what the hell async/await does
-- questioning my life choices at 3 AM
+## what i actually know
+
+```
+JavaScript   ████████████████████░░░  85%
+React        ███████████████████░░░░  80%
+Node.js      ████████████████░░░░░░░  70%
+CSS / UI     ████████████████████░░░  85%
+MongoDB      ███████████████░░░░░░░░  65%
+Python       ████████████░░░░░░░░░░░  50%
+C++          █████████░░░░░░░░░░░░░░  40%
+Git          █████████████████████░░  90%  ← mostly git stash & cry
+```
+
+---
+
+## how i actually spend my time
+
+```mermaid
+pie title a typical dev day
+    "writing real code" : 25
+    "debugging my own code" : 30
+    "reading stackoverflow" : 20
+    "staring at the screen" : 10
+    "git disasters" : 8
+    "refactoring what i just wrote" : 7
+```
+
+---
+
+## the portfolio project
+
+full-stack portfolio app i built and over-engineered for no reason.
+
+```mermaid
+graph TB
+    subgraph frontend ["frontend · react + vite"]
+        hero[hero]
+        projects[projects]
+        skills[skills]
+        contact[contact]
+        cli["CLI easter egg 🕹️"]
+        admin[admin dashboard]
+    end
+
+    subgraph backend ["backend · node + express"]
+        auth[jwt auth]
+        api[rest api]
+        mail[nodemailer]
+        security["helmet + rate limiter"]
+    end
+
+    subgraph db ["mongodb"]
+        p[(projects)]
+        m[(messages)]
+        u[(admin users)]
+    end
+
+    frontend -->|requests| backend
+    backend --> db
+    contact --> mail
+```
+
+| thing | what it does |
+|---|---|
+| frontend | react + vite, dark terminal theme |
+| backend | express api, jwt, rate limiting |
+| db | mongodb |
+| security | helmet, bcrypt, input validation |
+| easter egg | hidden CLI terminal with commands |
+| admin panel | manage projects and messages |
+| contact | emails me via nodemailer |
+| deployed | vercel |
+
+---
+
+## the journey
+
+```mermaid
+timeline
+    title how i got here
+    2022 : html & css
+         : first horrible websites
+    2023 : javascript finally clicked
+         : discovered react
+         : first node backend
+    2024 : full-stack apps
+         : jwt auth & mongodb
+    2025 : admin dashboards
+         : seo, deployment, real projects
+    2026 : still grinding 
+```
+
+---
+
+## github stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=3bdoKH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=false)
+
+![streak](https://nirzak-streak-stats.vercel.app/?user=3bdoKH&theme=dark&hide_border=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdoKH&theme=dark&hide_border=true&layout=compact)
+
+---
 
 ## find me
-- somewhere on the internet
-- probably crying over git merge conflicts
-- in the fetal position after a failed deployment
-- asking ChatGPT why my code doesn't work (again)
-- in a farm contemplating a career change to farming (the real kind)
-  
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100022343641360) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-khairy-391801305/)
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- facebook: [abdulrahman](https://www.facebook.com/profile.php?id=100022343641360)
+- linkedin: [abdo-khairy](https://www.linkedin.com/in/abdo-khairy-391801305/)
+- github: somewhere crying over a merge conflict
 
-## my code philosophy
-```javascript
-// if it works, don't touch it
-// if it doesn't work, copy-paste until it does
-// if all else fails, blame the browser
-```
+---
+
 [![](https://visitcount.itsvg.in/api?id=3bdoKH&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*"Code never lies, comments sometimes do." - someone smarter than me*
