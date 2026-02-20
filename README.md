@@ -108,11 +108,11 @@ timeline
 
 ## github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=3bdoKH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=false)
+![stats](https://readme-stats-xi-ten.vercel.app/api?username=3bdoKH&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![streak](https://nirzak-streak-stats.vercel.app/?user=3bdoKH&theme=dark&hide_border=true)
+![streak](https://streak-stats.demolab.com/?user=3bdoKH&theme=dark&hide_border=true)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdoKH&theme=dark&hide_border=true&layout=compact)
+![langs](https://readme-stats-xi-ten.vercel.app/api/top-langs/?username=3bdoKH&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
