@@ -106,20 +106,7 @@ timeline
 
 ---
 
-## github stats
 
-<p align="center">
-  <img src="https://github-readme-stats-delta-silk-51ay3bmvw9.vercel.app/api?username=3bdoKH&show_icons=true&theme=dark" width="32%" height="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3bdoKH&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3bdoKH&theme=github_dark" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=3bdoKH&theme=dark&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3bdoKH&theme=github_dark&utcOffset=2" width="32%" />
-</p>
-
----
 
 ## find me
 
