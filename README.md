@@ -1,14 +1,14 @@
-# sup, i'm abdulrahman
+# sup, i'm abdulrahman 👋
 
-> "sometimes it works. sometimes it catches fire. either way, ship it."
+> *"sometimes it works. sometimes it catches fire. either way, ship it."*
 
-i'm a self-taught developer from egypt. i build things, break them, fix them badly, and call it shipping.
+i'm a self-taught developer from egypt 🇪🇬. i build things, break them, fix them badly, and call it shipping.
 
-- writes code that mostly breaks
-- survives on caffeine and regret
-- pro at copy-pasting stackoverflow
-- makes bugs and then loves them
-- `git push --force` is a lifestyle
+-  writes code that mostly breaks
+-  survives on caffeine and regret
+-  pro at copy-pasting stackoverflow
+-  makes bugs and then loves them
+-  `git push --force` is a lifestyle
 
 ---
 
@@ -106,17 +106,40 @@ timeline
 
 ---
 
+## currently building 🔨
 
+- 🚗 **wonsh app** — tow truck service platform (react + express + mongodb)
+- 🛠️ finding new ways to over-engineer simple things
+
+---
+
+## my github stats
+
+![abdulrahman's github stats](https://github-readme-stats.vercel.app/api?username=3bdoKH&show_icons=true&theme=tokyonight&hide_border=true)
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdoKH&layout=compact&theme=tokyonight&hide_border=true)
+
+![github streak](https://streak-stats.demolab.com/?user=3bdoKH&theme=tokyonight&hide_border=true)
+
+---
 
 ## find me
 
-- facebook: [abdulrahman](https://www.facebook.com/profile.php?id=100022343641360)
-- linkedin: [abdo-khairy](https://www.linkedin.com/in/abdo-khairy-391801305/)
-- github: somewhere crying over a merge conflict
+-  facebook: [abdulrahman](https://www.facebook.com/profile.php?id=100022343641360)
+-  linkedin: [abdo-khairy](https://www.linkedin.com/in/abdo-khairy-391801305/)
+-  github: [3bdoKH](https://github.com/3bdoKH) ← also crying over merge conflicts here
+
+---
+
+## contact me if...
+
+- ✅ you need a full-stack app built
+- ✅ you want to talk about react, node, or why css is pain
+- ❌ you're going to tell me to use tabs instead of spaces
+- ❌ you're a recruiter asking for "5 years of experience in a 2-year-old framework"
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=3bdoKH&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ![profile views](https://komarev.com/ghpvc/?username=3bdoKH&color=blueviolet&style=flat-square&label=profile+views)
