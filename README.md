@@ -119,7 +119,6 @@ timeline
 
 ![top languages](https://github-readme-stats-delta-silk-51ay3bmvw9.vercel.app/api/top-langs/?username=3bdoKH&layout=compact&theme=tokyonight&hide_border=true)
 
-![github streak](https://streak-stats.demolab.com/?user=3bdoKH&theme=tokyonight&hide_border=true)
 
 ---
 
