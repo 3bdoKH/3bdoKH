@@ -106,7 +106,7 @@ timeline
 
 ---
 
-## currently building 🔨
+## currently building 
 
 -  **wench app** — tow truck service platform (react + express + mySQL)
 -  finding new ways to over-engineer simple things
