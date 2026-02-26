@@ -116,11 +116,7 @@ timeline
 
 ---
 
-## my github stats (evidence)
-
-![abdulrahman's github stats](https://github-readme-stats.vercel.app/api?username=3bdoKH&show_icons=true&theme=tokyonight&hide_border=true)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdoKH&layout=compact&theme=tokyonight&hide_border=true)
+## my github stats (some shit for the look only)
 
 ![github streak](https://streak-stats.demolab.com/?user=3bdoKH&theme=tokyonight&hide_border=true)
 
