@@ -1,4 +1,4 @@
-# sup, i'm abdulrahman 👋
+# sup, i'm abdulrahman 
 
 > *"sometimes it works. sometimes it catches fire. i push to main anyway and go touch grass."*
 
