@@ -145,6 +145,6 @@ timeline
 
 [![](https://visitcount.itsvg.in/api?id=3bdoKH&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![profile views](https://komarev.com/ghpvc/?username=3bdoKH&color=blueviolet&style=flat-square&label=profile+views)
+![profile views](https://komarev.com/ghpvc/?username=3bdoKH&color=blueviolet&style=flat-square&label=profile+views) <- (just me reloading this page)
 
 *(if you read this whole thing, you need to go outside. so do i. we should go together.)*
