@@ -114,15 +114,6 @@ timeline
 -  **winsh app** — tow truck platform (react + express + mongodb) because apparently i am the patron saint of egyptian car emergencies
 -  finding increasingly unhinged ways to over-engineer things that could be a single html file
 
----
-
-## my github stats (some shit for the look only)
-
-![github streak](https://streak-stats.demolab.com/?user=3bdoKH&theme=tokyonight&hide_border=true)
-
-*(the streak is held together by anxiety and spite)*
-
----
 
 ## find me (i am always online. this is not healthy.)
 
